@@ -1,4 +1,4 @@
-@testable import AsyncHTTPClient
+import AsyncHTTPClient
 import Foundation
 import Testing
 import Logging
